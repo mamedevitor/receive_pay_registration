@@ -1,0 +1,11 @@
+
+# tela login (banco de dados usuario)
+# menu 
+# cadastro de cliente e forcedor
+# cadastro de recebimentos/pagamento
+# fluxo select 09-29-2021 from dt_receb
+
+# 1º layout telas
+# 2º criar tabelas banco (usuarios[id, nome, senha, acessos], clientes[id,cnpj, nome, enderço, cidade, data criação, usuario], fornecedor[id,cnpj, nome, enderço, cidade, data criação, usuario], recebimento[id, cliente, valor recebido, dta do recebimento, data registro, usuario], pagamento[id, cliente, valor recebido, dta do recebimento, data registro, usuario])
+# 3º integração da API
+# 4º integrar banco de dados com as telas 
